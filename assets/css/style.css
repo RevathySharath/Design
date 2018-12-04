@@ -1,0 +1,61 @@
+html, body
+ { 
+     background-color: #F4F2F3 !important;
+    height: 100% !important; 
+    width: 100% !important; 
+    margin: 0 !important;
+     padding: 0 !important; 
+     overflow-x: hidden;
+}
+.navbar-brand{
+    color:white !important;
+    font-size:28px !important;
+}
+.banner{
+    padding:0 !important;
+    margin:0 !important;
+    width: 100%;
+}
+p{
+    font-size:14px;
+}
+.top-left {
+    position: absolute;
+    top: -6rem;
+}
+.top{
+        position: absolute;
+        top: -4rem;
+    
+}
+.event{
+    color:white;
+    background-color: 	#E77140;
+}
+.nav-link{
+    color:black !important;
+    font-size:18px !important;
+}
+.nav-tabs .nav-link.active{
+    background-color:	#B7EE74 !important;
+    color:white !important;
+}
+.apply{
+    color:white !important;
+    font-size:18px !important;
+    background-color: #B7EE74 !important;
+    padding-right:35px !important;
+    padding-left:35px !important;
+}
+.contact{
+    padding-right:35px !important;
+    padding-left:35px !important;
+    margin-top:15px !important;
+}
+.footer{
+    margin-top:10rem;
+    font-size: 12px;
+}
+.btn-success{
+    margin-right:13px;
+}
